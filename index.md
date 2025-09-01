@@ -2,7 +2,7 @@
 
 - I like the friendly environment 
 - The teachers are chill
-- Students get to learn programming concepts that helps with professional development
+- Students get to learn programming concepts that help with professional development
   
 ## Welcome to GitHub Pages
 
